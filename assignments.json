@@ -1,0 +1,415 @@
+{
+  "assignments": [
+    {
+      "id": 11,
+      "title": "Math Homework",
+      "course": "MAT101",
+      "due_date": "2026-02-02",
+      "description": "Math homework Example",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:54:11.210406"
+    },
+    {
+      "id": 12,
+      "title": "Homework 1: Algebra Basics",
+      "course": "Mathematics 101",
+      "due_date": "2026-02-03",
+      "description": "Complete problems 1-20 on page 15.",
+      "completed": true,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693023"
+    },
+    {
+      "id": 13,
+      "title": "Quiz 1: Linear Equations",
+      "course": "Mathematics 101",
+      "due_date": "2026-02-05",
+      "description": "Prepare for quiz on linear equations.",
+      "completed": true,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693039"
+    },
+    {
+      "id": 14,
+      "title": "Homework 2: Quadratics",
+      "course": "Mathematics 101",
+      "due_date": "2026-02-10",
+      "description": "Quadratic equations worksheet.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693044"
+    },
+    {
+      "id": 15,
+      "title": "Project: Math Poster",
+      "course": "Mathematics 101",
+      "due_date": "2026-02-20",
+      "description": "Create a poster about a famous mathematician.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693048"
+    },
+    {
+      "id": 16,
+      "title": "Midterm Review",
+      "course": "Mathematics 101",
+      "due_date": "2026-02-25",
+      "description": "Review all chapters for midterm.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693052"
+    },
+    {
+      "id": 17,
+      "title": "Homework 3: Polynomials",
+      "course": "Mathematics 101",
+      "due_date": "2026-03-01",
+      "description": "Polynomial practice problems.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693056"
+    },
+    {
+      "id": 18,
+      "title": "Quiz 2: Factoring",
+      "course": "Mathematics 101",
+      "due_date": "2026-03-05",
+      "description": "Quiz on factoring techniques.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693060"
+    },
+    {
+      "id": 19,
+      "title": "Homework 4: Functions",
+      "course": "Mathematics 101",
+      "due_date": "2026-03-10",
+      "description": "Function notation and evaluation.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693063"
+    },
+    {
+      "id": 20,
+      "title": "Lab 1: Cell Structure",
+      "course": "Biology 201",
+      "due_date": "2026-02-04",
+      "description": "Microscope lab on plant and animal cells.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693066"
+    },
+    {
+      "id": 21,
+      "title": "Reading: Chapter 2",
+      "course": "Biology 201",
+      "due_date": "2026-02-06",
+      "description": "Read and summarize chapter 2.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693069"
+    },
+    {
+      "id": 22,
+      "title": "Quiz 1: Cell Theory",
+      "course": "Biology 201",
+      "due_date": "2026-02-08",
+      "description": "Quiz on cell theory and organelles.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693072"
+    },
+    {
+      "id": 23,
+      "title": "Homework: Mitosis",
+      "course": "Biology 201",
+      "due_date": "2026-02-12",
+      "description": "Worksheet on mitosis phases.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693076"
+    },
+    {
+      "id": 24,
+      "title": "Lab 2: Enzymes",
+      "course": "Biology 201",
+      "due_date": "2026-02-18",
+      "description": "Enzyme activity lab report.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693079"
+    },
+    {
+      "id": 25,
+      "title": "Project: Cell Model",
+      "course": "Biology 201",
+      "due_date": "2026-02-24",
+      "description": "Build a 3D model of a cell.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693082"
+    },
+    {
+      "id": 26,
+      "title": "Quiz 2: Genetics",
+      "course": "Biology 201",
+      "due_date": "2026-03-02",
+      "description": "Quiz on Mendelian genetics.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693085"
+    },
+    {
+      "id": 27,
+      "title": "Homework: DNA Structure",
+      "course": "Biology 201",
+      "due_date": "2026-03-08",
+      "description": "Worksheet on DNA and RNA.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693088"
+    },
+    {
+      "id": 28,
+      "title": "Essay: Shakespeare Analysis",
+      "course": "English 150",
+      "due_date": "2026-02-07",
+      "description": "Write an essay on Hamlet themes.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693091"
+    },
+    {
+      "id": 29,
+      "title": "Reading: Act 2",
+      "course": "English 150",
+      "due_date": "2026-02-09",
+      "description": "Read Act 2 of Hamlet.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693094"
+    },
+    {
+      "id": 30,
+      "title": "Quiz 1: Literary Devices",
+      "course": "English 150",
+      "due_date": "2026-02-13",
+      "description": "Quiz on simile, metaphor, etc.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693098"
+    },
+    {
+      "id": 31,
+      "title": "Homework: Poetry Analysis",
+      "course": "English 150",
+      "due_date": "2026-02-16",
+      "description": "Analyze assigned poem.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693101"
+    },
+    {
+      "id": 32,
+      "title": "Project: Group Presentation",
+      "course": "English 150",
+      "due_date": "2026-02-22",
+      "description": "Prepare group presentation on Hamlet.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693104"
+    },
+    {
+      "id": 33,
+      "title": "Essay: Modern Poetry",
+      "course": "English 150",
+      "due_date": "2026-02-28",
+      "description": "Essay on 20th-century poets.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693108"
+    },
+    {
+      "id": 34,
+      "title": "Quiz 2: Drama Terms",
+      "course": "English 150",
+      "due_date": "2026-03-04",
+      "description": "Quiz on drama terminology.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693111"
+    },
+    {
+      "id": 35,
+      "title": "Homework: Short Story",
+      "course": "English 150",
+      "due_date": "2026-03-09",
+      "description": "Write a short story draft.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693114"
+    },
+    {
+      "id": 36,
+      "title": "Lab 1: Ohm's Law",
+      "course": "Physics 110",
+      "due_date": "2026-02-02",
+      "description": "Lab on Ohm's Law and circuits.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693117"
+    },
+    {
+      "id": 37,
+      "title": "Homework: Vectors",
+      "course": "Physics 110",
+      "due_date": "2026-02-06",
+      "description": "Problems on vector addition.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693120"
+    },
+    {
+      "id": 38,
+      "title": "Quiz 1: Kinematics",
+      "course": "Physics 110",
+      "due_date": "2026-02-11",
+      "description": "Quiz on kinematics equations.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693123"
+    },
+    {
+      "id": 39,
+      "title": "Lab 2: Projectile Motion",
+      "course": "Physics 110",
+      "due_date": "2026-02-15",
+      "description": "Projectile motion experiment.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693126"
+    },
+    {
+      "id": 40,
+      "title": "Homework: Newton's Laws",
+      "course": "Physics 110",
+      "due_date": "2026-02-19",
+      "description": "Problems on Newton's Laws.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693129"
+    },
+    {
+      "id": 41,
+      "title": "Quiz 2: Forces",
+      "course": "Physics 110",
+      "due_date": "2026-02-23",
+      "description": "Quiz on force and motion.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693132"
+    },
+    {
+      "id": 42,
+      "title": "Lab 3: Energy",
+      "course": "Physics 110",
+      "due_date": "2026-02-27",
+      "description": "Lab on energy conservation.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693139"
+    },
+    {
+      "id": 43,
+      "title": "Homework: Momentum",
+      "course": "Physics 110",
+      "due_date": "2026-03-03",
+      "description": "Problems on momentum and collisions.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693142"
+    },
+    {
+      "id": 44,
+      "title": "Project: Bridge Model",
+      "course": "Physics 110",
+      "due_date": "2026-03-08",
+      "description": "Build a model bridge for physics project.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693145"
+    },
+    {
+      "id": 45,
+      "title": "Reading: Chapter 5",
+      "course": "Physics 110",
+      "due_date": "2026-03-12",
+      "description": "Read chapter 5 and answer questions.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693148"
+    },
+    {
+      "id": 46,
+      "title": "Lab 4: Waves",
+      "course": "Physics 110",
+      "due_date": "2026-03-16",
+      "description": "Lab on wave properties.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693151"
+    },
+    {
+      "id": 47,
+      "title": "Quiz 3: Sound",
+      "course": "Physics 110",
+      "due_date": "2026-03-20",
+      "description": "Quiz on sound and waves.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693154"
+    },
+    {
+      "id": 48,
+      "title": "Homework: Light",
+      "course": "Physics 110",
+      "due_date": "2026-03-24",
+      "description": "Problems on light and optics.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693158"
+    },
+    {
+      "id": 49,
+      "title": "Project: Science Fair",
+      "course": "Physics 110",
+      "due_date": "2026-03-28",
+      "description": "Prepare for science fair presentation.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693161"
+    },
+    {
+      "id": 50,
+      "title": "Final Exam Review",
+      "course": "Physics 110",
+      "due_date": "2026-03-31",
+      "description": "Review all topics for final exam.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693164"
+    },
+    {
+      "id": 51,
+      "title": "Lab 5: Circuits",
+      "course": "Physics 110",
+      "due_date": "2026-04-04",
+      "description": "Lab on electrical circuits.",
+      "completed": false,
+      "grade": "",
+      "created_at": "2026-01-29T18:58:10.693167"
+    }
+  ],
+  "next_id": 52
+}
